@@ -1,4 +1,4 @@
-# Remote-sensing-image-analysis
+# Remote sensing image analysis
 
 A Python-based remote sensing analysis project covering **Landsat multispectral image preprocessing, spectral indices, land surface temperature estimation, cloud detection, geometric correction, and image classification**.
 
